@@ -26,7 +26,7 @@ pip install dash pandas plotly dash-bootstrap-components dash-daq
 
 - Clone the Repository:
 ```bash
-git clone https://github.com/Ap211016/Dark_Web_Monitoring_Dashboard.get
+git clone https://github.com/Ap211016/Dark_Web_Monitoring_Dashboard.git
 cd Dark_Web_Monitoring_Dashboard
 ```
 ## Run the App: Run the following command to start the Dash app:
