@@ -1,6 +1,6 @@
 # Dark Web Monitoring Dashboard
 
-The Dark Web Monitoring Dashboard is a Python-based application built using Dash. It provides an interactive platform to visualize and analyze keyword monitoring data from Excel files. After monitoring results are generated and saved as Excel files, users can upload them to the dashboard, which will display key statistics and visualizations like pie charts, bar charts, and a detailed data table for findings.
+The Dark Web Monitoring Dashboard is a Python-based application built using Dash. It provides an interactive platform to visualize and analyze keyword monitoring data from Excel files. After monitoring results are generated and saved as Excel files, users can upload them to the dashboard, displaying key statistics and visualizations like pie charts, bar charts, and a detailed data table for findings.
 
 ## Features
 
@@ -8,14 +8,18 @@ The Dark Web Monitoring Dashboard is a Python-based application built using Dash
 - **Visualizations**:
   - **Pie Chart**: Displays the success rate of keywords based on findings.
   - **Bar Charts**: Visualizes the number of findings over time and the frequency of all keywords.
-  - **Data Table**: Displays raw data in an interactive table format.
+  - **Data Table**: Displays raw data in an interactive format.
 - **Date Range Filter**: Filter findings based on a specified date range to analyze trends over time.
-- **Statistics**: Displays the total number of findings, unique keywords, monitored URLs, and found keywords.
+- **Statistics**: Displays the total number of findings, unique keywords, monitored URLs and found keywords.
+
+
+![dash](https://github.com/user-attachments/assets/3360aad8-a265-4026-bd6d-38cd299942de)
+
 
 ## Prerequisites
 
 Ensure you have the following installed:
-- **Python 3.x**: Make sure Python is installed on your machine.
+- **Python 3.x**: Ensure Python is installed on your machine.
 - **Libraries**: You can install the necessary libraries by running:
 
 ```bash
